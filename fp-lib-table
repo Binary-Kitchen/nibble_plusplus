@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SMD-Challange)(type KiCad)(uri ${KIPRJMOD}/SMD-Challange.pretty)(options "")(descr ""))
+)
