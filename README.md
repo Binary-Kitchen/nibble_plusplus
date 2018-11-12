@@ -10,7 +10,7 @@ TBD
 TBD
 
 ## Idea
-The Idea origins to Ken Olsen and his Attiny SMD Challenge. Many thanks to Ken Olsen for the idear and for opening up this great work to creative commons.
+The Idea origins to Ken Olsen and his Attiny SMD Challenge. Many thanks to Ken Olsen for the idea and for opening up this great work to creative commons.
 
 ## Name
 The name Nibble++ origins from a simple [nibble peg](https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/NibblePegDIP) which has been developed one year earlier. A Nibble ist a unit for the amount of 4 Bits (https://en.wikipedia.org/wiki/Nibble). Because we are using five LEDs we incremented the value ;).
