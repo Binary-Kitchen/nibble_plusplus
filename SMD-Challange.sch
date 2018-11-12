@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Binary Kitchen SMD Soldering Challenge"
+Title "Nibble++"
 Date "2018-11-11"
-Rev "A"
+Rev "V1.0"
 Comp "Binary Kitchen e.V."
 Comment1 ""
 Comment2 ""
@@ -500,8 +500,8 @@ F 3 "" H 900 950 50  0001 C CNN
 	1    900  950 
 	1    0    0    -1  
 $EndComp
-Text Notes 2000 3800 0    50   ~ 0
-NE555 Oscillator\nf = 1/((R6+2*R7)*ln(2)*C2)\nt_high = (R6+R7)*ln(2)*C2
+Text Notes 2450 3850 0    50   ~ 0
+NE555 Oscillator\nf = 1/((R6+2*R7)*ln(2)*C2)\nt_high = (R6+R7)*ln(2)*C2\n\nFor R6 = 100k, R7 = 100k and C1 = 1µF:\nf = 4.8 Hz\nt_high = 0.138 s\n
 Wire Wire Line
 	6350 2250 7050 2250
 Wire Wire Line
