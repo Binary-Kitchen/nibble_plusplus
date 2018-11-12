@@ -1,7 +1,7 @@
 # Nibble++
 A simple PCP to test your SMD hand-soldering skills. Going down to sand grain sized 01005 SMD parts, this button is a challenge for experienced "soldiers" and those who want to become one.
 
-<img src="images/front.png" width=400px alt="Nibble++ front"> <img src="images/back.png" width=400px alt="Nibble++ back">
+<img src="images/front.png" width=500px alt="Nibble++ front">
 
 ## Bill of Material
 TBD
