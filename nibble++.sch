@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:SMD-Challange-cache
+LIBS:nibble++-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -31,7 +31,7 @@ U 1 1 5BE42D2C
 P 7500 2250
 F 0 "D1" H 7500 2150 50  0000 C CNN
 F 1 "LED" H 7500 2350 50  0000 C CNN
-F 2 "SMD-Challange:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder_simple_drawing" H 7500 2250 50  0001 C CNN
+F 2 "nibble++:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder_simple_drawing" H 7500 2250 50  0001 C CNN
 F 3 "~" H 7500 2250 50  0001 C CNN
 	1    7500 2250
 	-1   0    0    1   
@@ -42,7 +42,7 @@ U 1 1 5BE42DE2
 P 7500 2550
 F 0 "D2" H 7500 2450 50  0000 C CNN
 F 1 "LED" H 7500 2650 50  0000 C CNN
-F 2 "SMD-Challange:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_simple_drawing" H 7500 2550 50  0001 C CNN
+F 2 "nibble++:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder_simple_drawing" H 7500 2550 50  0001 C CNN
 F 3 "~" H 7500 2550 50  0001 C CNN
 	1    7500 2550
 	-1   0    0    1   
@@ -64,7 +64,7 @@ U 1 1 5BE42E3C
 P 7500 3150
 F 0 "D4" H 7500 3050 50  0000 C CNN
 F 1 "LED" H 7500 3250 50  0000 C CNN
-F 2 "SMD-Challange:LED_0201_0603Metric_hand_soldering" H 7500 3150 50  0001 C CNN
+F 2 "nibble++:LED_0201_0603Metric_hand_soldering" H 7500 3150 50  0001 C CNN
 F 3 "~" H 7500 3150 50  0001 C CNN
 	1    7500 3150
 	-1   0    0    1   
@@ -75,7 +75,7 @@ U 1 1 5BE42E66
 P 7500 3450
 F 0 "D5" H 7500 3350 50  0000 C CNN
 F 1 "LED" H 7500 3550 50  0000 C CNN
-F 2 "SMD-Challange:LED_0201_0603Metric_hand_soldering" H 7500 3450 50  0001 C CNN
+F 2 "nibble++:LED_0201_0603Metric_hand_soldering" H 7500 3450 50  0001 C CNN
 F 3 "~" H 7500 3450 50  0001 C CNN
 	1    7500 3450
 	-1   0    0    1   
@@ -86,7 +86,7 @@ U 1 1 5BE42EB9
 P 7200 2250
 F 0 "R1" V 6993 2250 50  0000 C CNN
 F 1 "100" V 7084 2250 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7130 2250 50  0001 C CNN
+F 2 "nibble++:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7130 2250 50  0001 C CNN
 F 3 "~" H 7200 2250 50  0001 C CNN
 	1    7200 2250
 	0    1    1    0   
@@ -97,7 +97,7 @@ U 1 1 5BE42FCF
 P 7200 2550
 F 0 "R2" V 6993 2550 50  0000 C CNN
 F 1 "100" V 7084 2550 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 7130 2550 50  0001 C CNN
+F 2 "nibble++:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 7130 2550 50  0001 C CNN
 F 3 "~" H 7200 2550 50  0001 C CNN
 	1    7200 2550
 	0    1    1    0   
@@ -119,7 +119,7 @@ U 1 1 5BE43033
 P 7200 3150
 F 0 "R4" V 6993 3150 50  0000 C CNN
 F 1 "150" V 7084 3150 50  0000 C CNN
-F 2 "SMD-Challange:R_0201_0603Metric_hand_soldering" V 7130 3150 50  0001 C CNN
+F 2 "nibble++:R_0201_0603Metric_hand_soldering" V 7130 3150 50  0001 C CNN
 F 3 "~" H 7200 3150 50  0001 C CNN
 	1    7200 3150
 	0    1    1    0   
@@ -130,7 +130,7 @@ U 1 1 5BE4305F
 P 7200 3450
 F 0 "R5" V 6993 3450 50  0000 C CNN
 F 1 "200" V 7084 3450 50  0000 C CNN
-F 2 "SMD-Challange:R_01005_0402Metric_hand_soldering" V 7130 3450 50  0001 C CNN
+F 2 "nibble++:R_01005_0402Metric_hand_soldering" V 7130 3450 50  0001 C CNN
 F 3 "~" H 7200 3450 50  0001 C CNN
 	1    7200 3450
 	0    1    1    0   
@@ -141,7 +141,7 @@ U 1 1 5BE4528B
 P 5850 2750
 F 0 "U2" H 5600 3500 50  0000 C CNN
 F 1 "4017" H 5650 3400 50  0000 C CNN
-F 2 "SMD-Challange:SOP-16_4.4x10.4mm_P1.27mm_simple_drawing" H 5850 2750 50  0001 C CNN
+F 2 "nibble++:SOP-16_4.4x10.4mm_P1.27mm_simple_drawing" H 5850 2750 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf" H 5850 2750 50  0001 C CNN
 	1    5850 2750
 	1    0    0    -1  
@@ -448,7 +448,7 @@ U 1 1 5BE7072A
 P 3450 1100
 F 0 "SW1" V 3404 1248 50  0000 L CNN
 F 1 "SW_DPDT_x2" V 3495 1248 50  0000 L CNN
-F 2 "SMD-Challange:smd_switch_slide" H 3450 1100 50  0001 C CNN
+F 2 "nibble++:smd_switch_slide" H 3450 1100 50  0001 C CNN
 F 3 "" H 3450 1100 50  0001 C CNN
 	1    3450 1100
 	0    1    1    0   

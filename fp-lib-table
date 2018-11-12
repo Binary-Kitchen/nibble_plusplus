@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name SMD-Challange)(type KiCad)(uri ${KIPRJMOD}/SMD-Challange.pretty)(options "")(descr ""))
+  (lib (name SMD-Challange)(type KiCad)(uri ${KIPRJMOD}/nibble++.pretty)(options "")(descr ""))
+  (lib (name nibble++)(type KiCad)(uri ${KIPRJMOD}/nibble++.pretty)(options "")(descr ""))
 )
