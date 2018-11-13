@@ -1,0 +1,19 @@
+Id;Designator;Package;Quantity;Designation
+1;R2;0603 SMD Resistor;1;100 Ohm
+2;R1;0805 SMD Resistor;1;100 Ohm
+3;C1;0805 SMD Capacitor;1;100n
+4;C2;0805 SMD Capacitor;1;1µ F
+5;C3;0805 SMD Capacitor;1;100n F
+6;D3;0402 SMD LED;1;0402 LED Yellow
+7;R6,R7;0805 SMD Resistor;2;100k Ohm
+8;U1;SOIC-8 NE555;1;
+10;R3;0402  SMD Resistor;1;100 Ohm
+13;BT1;SMD Battery Holder;1;CR2023
+14;D1;0805 SMD LED;1;LED Red
+15;D2;0603 SMD LED;1;LED Orange
+16;D4;0201 SMD LED;1;LED Green
+17;D5;0201 SMD LED;1;LED Blue
+18;R4;0201 SMD Resistor;1;150 Ohm
+19;R5;01005 SMD Resistor;1;200 Ohm
+20;SW1;SMD Switch;1;
+21;U2;SOP-16 CD4017;1;
