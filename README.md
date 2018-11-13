@@ -4,7 +4,26 @@ A simple PCP to test your SMD hand-soldering skills. Going down to sand grain si
 <img src="images/front.png" width=500px alt="Nibble++ front">
 
 ## Bill of Material
-TBD
+| Designator |       Package      | Quantity |   Designation   |
+|:----------:|:------------------:|----------|:---------------:|
+| BT1        | SMD Battery Holder | 1        | CR2023          |
+| C1         | 0805 SMD Capacitor | 1        | 100n            |
+| C2         | 0805 SMD Capacitor | 1        | 1µ F            |
+| C3         | 0805 SMD Capacitor | 1        | 100n F          |
+| D1         | 0805 SMD LED       | 1        | LED Red         |
+| D2         | 0603 SMD LED       | 1        | LED Orange      |
+| D3         | 0402 SMD LED       | 1        | 0402 LED Yellow |
+| D4         | 0201 SMD LED       | 1        | LED Green       |
+| D5         | 0201 SMD LED       | 1        | LED Blue        |
+| R1         | 0805 SMD Resistor  | 1        | 100 Ohm         |
+| R2         | 0603 SMD Resistor  | 1        | 100 Ohm         |
+| R3         | 0402  SMD Resistor | 1        | 100 Ohm         |
+| R4         | 0201 SMD Resistor  | 1        | 150 Ohm         |
+| R5         | 01005 SMD Resistor | 1        | 200 Ohm         |
+| R6,R7      | 0805 SMD Resistor  | 2        | 100k Ohm        |
+| SW1        | SMD Switch         | 1        |                 |
+| U1         | SOIC-8 NE555       | 1        |                 |
+| U2         | SOP-16 CD4017      | 1        |                 |
 
 ## Manual
 TBD
