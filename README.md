@@ -12,7 +12,7 @@ A simple PCP to test your SMD hand-soldering skills. Going down to sand grain si
 | C3         | 0805 SMD Capacitor | 1        | 100n F          |
 | D1         | 0805 SMD LED       | 1        | LED Red         |
 | D2         | 0603 SMD LED       | 1        | LED Orange      |
-| D3         | 0402 SMD LED       | 1        | 0402 LED Yellow |
+| D3         | 0402 SMD LED       | 1        | LED Yellow      |
 | D4         | 0201 SMD LED       | 1        | LED Green       |
 | D5         | 0201 SMD LED       | 1        | LED Blue        |
 | R1         | 0805 SMD Resistor  | 1        | 100 Ohm         |
@@ -32,7 +32,7 @@ TBD
 The Idea origins to Ken Olsen and his Attiny SMD Challenge. Many thanks to Ken Olsen for the idea and for opening up this great work to creative commons.
 
 ## Name
-The name Nibble++ origins from a simple [nibble peg](https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/NibblePegDIP) which has been developed one year earlier. A Nibble ist a unit for the amount of 4 Bits (https://en.wikipedia.org/wiki/Nibble). Because we are using five LEDs we incremented the value ;).
+The name Nibble++ origins from a simple [nibble peg](https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/NibblePegDIP) which has been developed one year earlier. A Nibble is a unit for the amount of 4 bits (https://en.wikipedia.org/wiki/Nibble). Because we are using five LEDs we incremented the value ;).
 
 ## Copyright and Authorship
 - Idea: [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) - [Ken Olsen (www.MakersBox.us)](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)
