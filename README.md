@@ -27,6 +27,8 @@ A simple PCB to test your SMD hand-soldering skills. Going down to sand grain si
 
 ## Manual
 TBD
+<img src="images/LED orientation.jpg" width=500px alt="LED Orientation on PCB">
+
 
 ## Idea
 The Idea origins to Ken Olsen and his Attiny SMD Challenge. Many thanks to Ken Olsen for the idea and for opening up this great work to creative commons.
